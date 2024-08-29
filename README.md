@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on **fintech and web application projects**
 
+- 🎓 Lifelong Learner: **Continuously enhancing skills through courses and real-world projects.**
+
 - 📫 How to reach me **vismayrathore2021@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hgIFmPCnvZYH6jgm-JzLrwD-Fwd_dGmH/view?usp=sharing](https://drive.google.com/file/d/1hgIFmPCnvZYH6jgm-JzLrwD-Fwd_dGmH/view?usp=sharing)
