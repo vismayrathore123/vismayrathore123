@@ -4,13 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vismayrathore123&label=Profile%20views&color=0e75b6&style=flat" alt="vismayrathore123" /> </p>
 
-- 🔭 I’m currently working on **dot-net projects**
-
-- 🌱 I’m currently learning **Spring Boot**
-
 - 👯 I’m looking to collaborate on **fintech and web application projects**
-
-- 💬 Ask me about **JavaCore, Spring Core.Net,ASP.Net MVC, EntityFramework Core, C#, LINQ, Web API's, Azure, Angular, SQL Server**
 
 - 📫 How to reach me **vismayrathore2021@gmail.com**
 
